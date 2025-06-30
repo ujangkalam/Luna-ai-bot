@@ -1,0 +1,16 @@
+{
+  "name": "bot-wa-ai",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp AI dengan OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "openai": "^4.21.1",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
